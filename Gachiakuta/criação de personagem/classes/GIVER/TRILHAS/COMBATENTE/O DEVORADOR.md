@@ -1,5 +1,5 @@
 - **10% de Alma – Sifão Vital:**  
-    Pode gastar 1d3 PV para ganhar **1d6 PE** bônus (você pode gastar como um bônus do seu PE por turno) (1 Vez por a cada 2 turnos).
+    Pode gastar 1d4 PV para ganhar 1d6 PE bônus (você pode gastar como um bônus do seu PE por turno) (1 Vez por a cada 2 turnos).
 
 - **35% de Alma – Corrente de Destruição:**  
     Ao manter um Jinki invocado, você pode gastar **2 PE + 2 SAN** por cena para estender sua duração em **1 turno/cena**.

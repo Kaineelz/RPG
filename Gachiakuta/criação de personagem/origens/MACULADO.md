@@ -16,7 +16,7 @@ Parte de sua alma foi arrancada ao nascer. Você carrega uma ferida incurável q
 
 ## **Dualidade** 
 
-- Ação Bônus (1/turno): Faça um ataque extra com -2 de dano base.
+- **Dualidade:** Gaste **2 PE + 2 SAN** para realizar um ataque adicional.
 
 - Aprimoramento por Alma:
   - A cada 10% de Alma, Aumenta a penalidade de dano em 1 (ex.: 20% Alma = -4 de penalidade).
