@@ -1,4 +1,4 @@
-. Alma representa progressão
+## Alma representa progressão
 
 [DEFINIDA]
 
@@ -9,7 +9,7 @@ Ela funciona como o equivalente ao nível do personagem.
 
 ---
 
-. Progressão padrão de Alma
+## Progressão padrão de Alma
 
 [DEFINIDA]
 
@@ -24,7 +24,7 @@ Exemplo:
 
 ---
 
-. Limite máximo de Alma
+## Limite máximo de Alma
 
 [DEFINIDA]
 
@@ -35,7 +35,7 @@ O limite máximo de progressão é 99% de Alma.
 
 ---
 
-. Habilidades exigem o valor de Alma correspondente
+## Habilidades exigem o valor de Alma correspondente
 
 [DEFINIDA]
 
@@ -46,7 +46,7 @@ Uma habilidade de 35% não pode ser utilizada por um personagem com 30% de Alma.
 
 ---
 
-. Habilidades anteriores continuam disponíveis
+## Habilidades anteriores continuam disponíveis
 
 [DEFINIDA]
 
@@ -56,7 +56,7 @@ Um personagem com 35% de Alma possui acesso às habilidades correspondentes aos 
 
 ---
 
-. Progressões por intervalo começam no desbloqueio da habilidade
+## Progressões por intervalo começam no desbloqueio da habilidade
 
 [DEFINIDA]
 
@@ -75,3 +75,106 @@ Uma habilidade desbloqueada em 10% que melhora a cada 15% recebe aumentos em:
 
 
 Isso evita interpretações diferentes sobre progressões como a da Fúria Calculada.
+
+---
+
+REGRAS DE DANO DE ALMA
+
+## Dano de Alma reduz PV
+
+[DEFINIDA]
+
+Dano de Alma reduz os Pontos de Vida normalmente.
+
+A diferença entre dano comum e dano de Alma está principalmente em sua forma de recuperação.
+
+
+---
+
+## Dano de Alma não pode ser curado por Origem
+
+[DEFINIDA]
+
+PV perdidos através de dano de Alma não podem ser recuperados por habilidades concedidas por Origem.
+
+
+---
+
+## Dano de Alma não pode ser curado por Trilha
+
+[DEFINIDA]
+
+PV perdidos através de dano de Alma não podem ser recuperados por habilidades concedidas por Trilha.
+
+
+---
+
+## Recuperação de dano de Alma
+
+[DEFINIDA]
+
+Dano de Alma pode ser recuperado por formas convencionais de tratamento e recuperação.
+
+Exemplos:
+
+> ações de Medicina
+tratamentos médicos
+itens médicos
+outras formas de cura padrão determinadas pelo sistema
+
+
+
+
+---
+
+## Dano de Alma deve permanecer rastreável
+
+[SUGESTÃO]
+
+Enquanto o personagem possuir PV perdidos por dano de Alma, esses pontos devem ser identificados separadamente dos PV perdidos por dano comum.
+
+Isso permite determinar corretamente quais pontos podem ou não ser restaurados por determinadas habilidades.
+
+Uma possibilidade é acrescentar na ficha:
+
+> Dano de Alma atual: __
+
+
+
+Esse campo não representa um novo recurso, apenas um marcador.
+
+
+---
+
+## Habilidade de Origem ou Trilha que sacrifica PV causa dano de Alma
+
+[DEFINIDA NESTA REVISÃO]
+
+Quando uma habilidade de Origem ou Trilha exige que o próprio usuário perca PV como preço de utilização, esse custo passa a ser tratado como dano de Alma, quando a habilidade for ajustada para isso.
+
+Essa mudança já foi considerada para as habilidades revisadas.
+
+
+---
+
+## Cura de Origem ou Trilha não apaga custo de Alma
+
+[DEFINIDA POR CONSEQUÊNCIA]
+
+Uma habilidade que causa dano de Alma ao usuário não pode ter esse custo imediatamente anulado por outra habilidade de Origem ou Trilha que recupere PV.
+
+Exemplo:
+
+Um personagem sofre:
+
+> 4 de dano de Alma
+
+
+
+e depois recebe:
+
+> 7 PV de cura através de uma habilidade de Trilha.
+
+
+
+Os 4 pontos de dano de Alma continuam sem poder ser recuperados por essa habilidade.
