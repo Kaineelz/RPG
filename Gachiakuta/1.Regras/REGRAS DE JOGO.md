@@ -123,7 +123,7 @@ Se Ataque Preciso possui limite de 1 uso por turno, realizar um ataque adicional
 
 50. Ação adicional não significa novo turno
 
-[SUGESTÃO]
+[DEFINIDA]
 
 Receber uma ação ou ataque adicional não inicia um novo turno para o personagem.
 
@@ -134,7 +134,7 @@ Todos os limites, efeitos e durações referentes ao turno atual continuam sendo
 
 51. Ataque adicional é um novo ataque
 
-[SUGESTÃO]
+[DEFINIDA]
 
 Um ataque adicional é tratado como um novo ataque para efeitos de:
 
