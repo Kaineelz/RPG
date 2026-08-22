@@ -48,7 +48,7 @@ REGRAS DE AÇÃO E LIMITES
 
 45. Limite de 1 uso por turno
 
-[SUGESTÃO DE REGRA UNIVERSAL]
+[REGRA UNIVERSAL]
 
 Uma habilidade descrita como:
 
@@ -65,7 +65,7 @@ Receber ataques ou ações adicionais não reinicia esse limite.
 
 46. Limite de 1 uso por rodada
 
-[SUGESTÃO DE FORMALIZAÇÃO]
+[DEFINIDA]
 
 Uma habilidade descrita como:
 
