@@ -1,6 +1,6 @@
 REGRAS DE PV, PE E SAN
 
-23. Atributos são adicionados uma única vez aos recursos
+## Atributos são adicionados uma única vez aos recursos
 
 [DEFINIDA]
 
@@ -25,9 +25,9 @@ Exemplo para um Auxiliar com 35% de Alma e VIG 2:
 
 ---
 
-24. PV representa condição física
+## PV representa condição física
 
-[SUGESTÃO DE TEXTO]
+[DEFINIDA]
 
 Os Pontos de Vida (PV) representam a condição física atual do personagem.
 
@@ -38,9 +38,9 @@ Ao atingir valores críticos ou 0 PV, aplicam-se as regras correspondentes de qu
 
 ---
 
-25. PE representa esforço
+## PE representa esforço
 
-[SUGESTÃO DE TEXTO]
+[DEFINIDA]
 
 Os Pontos de Esforço (PE) são utilizados para ativar habilidades, técnicas e outros efeitos que exigem esforço do personagem.
 
@@ -49,9 +49,9 @@ Uma habilidade só pode ser utilizada se o personagem puder pagar integralmente 
 
 ---
 
-26. SAN representa estabilidade mental
+## SAN representa estabilidade mental
 
-[SUGESTÃO DE TEXTO]
+[DEFINIDA]
 
 A Sanidade (SAN) representa a estabilidade mental do personagem.
 
@@ -64,7 +64,7 @@ As consequências específicas de SAN baixa ainda podem ser desenvolvidas separa
 
 REGRAS DE DEFESA E ESQUIVA
 
-27. Cálculo de Defesa
+## Cálculo de Defesa
 
 [DEFINIDA]
 
@@ -77,7 +77,7 @@ A Defesa do personagem é calculada da seguinte maneira:
 
 ---
 
-28. Cálculo de Esquiva
+## Cálculo de Esquiva
 
 [DEFINIDA]
 
