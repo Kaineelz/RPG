@@ -84,7 +84,7 @@ esse valor representa o multiplicador utilizado no crítico.
 
 42. Margem e multiplicador juntos
 
-[SUGESTÃO DE FORMALIZAÇÃO]
+[DEFINIDA]
 
 Quando uma arma apresenta:
 
@@ -104,9 +104,9 @@ multiplicador de crítico x3
 
 43. O que é multiplicado em um crítico
 
-[SUGESTÃO, AINDA NÃO FECHADA]
+[DEFINDA]
 
-Minha sugestão é que o crítico multiplique os dados básicos de dano da arma, mas não os bônus fixos, salvo quando uma habilidade disser explicitamente o contrário.
+o crítico multiplique os dados básicos de dano da arma, mas não os bônus fixos, salvo quando uma habilidade disser explicitamente o contrário.
 
 Exemplo:
 
