@@ -80,7 +80,7 @@ só pode ser utilizada uma vez durante toda a rodada de combate.
 
 47. Limite de 1 uso por cena
 
-[SUGESTÃO DE FORMALIZAÇÃO]
+[DEFINIDA]
 
 Uma habilidade descrita como:
 
@@ -95,7 +95,7 @@ só pode ser utilizada uma vez até que aquela cena seja encerrada.
 
 48. Limite de 1 uso por combate
 
-[SUGESTÃO DE FORMALIZAÇÃO]
+[DEFINIDA]
 
 Uma habilidade descrita como:
 
@@ -110,7 +110,7 @@ só pode ser utilizada uma vez naquele combate específico.
 
 49. Ataques adicionais não reiniciam habilidades
 
-[SUGESTÃO FORTE]
+[DEFINIDA!]
 
 Receber um ataque adicional não reinicia nem ignora limites individuais de habilidades.
 
