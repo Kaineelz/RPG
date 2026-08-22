@@ -3,6 +3,7 @@
 
 - **35% de Alma – Ataque Preciso:**  
 	Gaste **4 PE** para adicionar **4d8** de dano a um ataque. Se acertar um crítico contabiliza **8d8**.  
+	Limite: 1 uso por turno.
 
 - **65% de Alma – Combo Implacável:**  
 	Após acertar um critico, gaste **8 PE** para realizar um **segundo ataque** como ação bônus.(garante critico) Usos: 1 vez por combate.  
