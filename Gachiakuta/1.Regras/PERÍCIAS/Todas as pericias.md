@@ -166,3 +166,76 @@ Você sabe operar veículos terrestres e aquáticos, como motos, carros e lancha
 
 ## Poder:
 
+Você domina seu Jinki e sabe extrair, controlar e sustentar seu potencial.
+
+**Domínio do Jinki.** Seu domínio sobre o próprio Jinki determina o quanto você consegue explorar suas capacidades. Testes de Poder podem ser exigidos para utilizar manifestações complexas, sustentar efeitos prolongados ou ultrapassar os limites naturais do seu Jinki. A DT do teste é determinada pela dificuldade da ação ou pela própria habilidade.
+
+**Sustentar Efeito.** Alguns efeitos do Jinki possuem duração **sustentada**. Enquanto o efeito estiver ativo, você deve realizar testes de Poder conforme determinado pela habilidade. Em caso de sucesso, mantém o efeito normalmente. Em caso de falha, perde o controle necessário e o efeito termina.
+
+**Forçar o Jinki.** Você pode tentar extrair mais poder do seu Jinki do que normalmente seria possível. Isso permite ultrapassar limitações ou potencializar determinadas manifestações, mas pode aumentar a DT do teste de Poder ou gerar consequências definidas pela habilidade.
+
+**Controle.** Quando uma situação ameaça fazer seu Jinki escapar do seu controle, você pode realizar um teste de Poder para manter o domínio sobre ele. A DT é determinada pelo Mestre de acordo com a intensidade da situação.
+
+**Limites.** Seu resultado em testes de Poder também pode determinar o quanto você consegue manter uma manifestação ativa, controlar múltiplos efeitos ou utilizar uma habilidade além de sua capacidade normal. As regras específicas para cada Jinki são determinadas por suas próprias habilidades.
+
+## Pontaria:
+
+Você usa Pontaria para fazer ataques à distância. A DT é a Defesa do alvo. Se você acertar, causa dano de acordo com a arma utilizada.
+
+## Profissão:
+
+Você sabe exercer uma profissão específica, como advogado, engenheiro, jornalista ou publicitário. Converse com o mestre para definir os detalhes de sua profissão e que tipos de testes você pode fazer com ela. Por exemplo, um advogado pode fazer um teste de Profissão para argumentar com a polícia, enquanto um administrador pode usar esta perícia para investigar os documentos de uma corporação.
+
+Um personagem treinado nesta perícia possui seus próprios rendimentos ou, caso não trabalhe mais, uma reserva de capital. Isso permite que você comece cada missão com um item adicional, além daqueles fornecidos pela Ordem. O item é de categoria I se você for treinado, de categoria II se você for veterano e de categoria III se você for expert.
+
+## Reflexo:
+
+Você usa esta perícia para testes de resistência contra efeitos que exigem reação rápida, como armadilhas e explosões. A DT é determina pelo efeito. Você também usa Reflexos para evitar fintas.
+
+## Religião:
+
+Você possui conhecimento sobre teologia e as diversas religiões do mundo.
+
+Acalmar (DT 20). Você pode usar Religião como Diplomacia para acalmar um personagem que esteja enlouquecendo.
+
+Informação. Você pode responder dúvidas relativas a mitos, profecias, relíquias sagradas etc. A DT é 10 para questões simples, 20 para questões complexas e 30 para mistérios e enigmas.
+
+Rito (Veterano, DT 20). Você realiza uma cerimônia religiosa (batizado, casamento, funeral...).
+
+## Sobrevivência:
+
+Você pode se guiar em regiões selvagens e evitar perigos da natureza.
+
+Acampamento (Treinado). Você pode conseguir abrigo e alimento nos ermos, caçando, pescando, colhendo frutos, etc. A DT depende do tipo de terreno: 15 para campo aberto, 20 para mata fechada e 25 para regiões extremas, como desertos, pântanos ou montanhas. Regiões especialmente áridas ou estéreis e clima ruim (neve, tempestade etc.) impõem uma penalidade de –5 (cumulativa). Se passar, você e seu grupo podem usar as ações alimentar-se e dormir mesmo estando ao relento.
+
+Identificar Animal (Treinado, DT 20). Com uma ação completa, você pode identificar um animal exótico. Veja a perícia Ocultismo.
+
+Orientar-se. Um personagem viajando em regiões selvagens precisa fazer um teste de Sobrevivência por dia para avançar. A DT depende do tipo de terreno (veja acima). Se passar, você avança seu deslocamento normal. Se falhar, avança metade. Se falhar por 5 ou mais, se perde e não avança pelo dia inteiro. Num grupo, um personagem deve ser escolhido como guia. Personagens treinados em Sobrevivência podem fazer testes para ajudá-lo. Entretanto, se mais de um personagem quiser fazer o teste por si só, todos deverão rolar os dados em segredo. Os jogadores devem decidir qual guia seguir antes de verem o resultado!
+
+Rastrear (Treinado). Você pode identificar e seguir rastros. A DT varia: 15 para rastrear um grupo grande, ou um único ser em solo macio, como lama ou neve; 20 para um ser em solo comum (grama, terra); 25 para um ser em solo duro (estrada, piso de interiores). Visibilidade precária ou clima ruim (noite, chuva, neblina) impõem –1d20 no teste. Você precisa fazer um teste por dia de perseguição. Enquanto rastreia, seu deslocamento é reduzido à metade. Se falhar, pode tentar novamente gastando mais um dia. Porém, a cada dia desde a criação dos rastros, a DT aumenta em +1.
+
+## Tática:
+
+Você recebeu educação militar.
+
+Analisar Terreno (DT 20). Como uma ação de movimento, você pode observar o campo de batalha. Se passar, descobre uma vantagem, como cobertura, camuflagem ou terreno elevado, se houver.
+
+Plano de Ação (Veterano, DT 20). Como uma ação padrão, você orienta um aliado em alcance médio. Se passar, fornece +5 na Iniciativa dele. Se isso fizer com que um aliado que ainda não tenha agido nesta rodada fique com uma Iniciativa maior do que a sua, ele age imediatamente após seu turno. Nas próximas rodadas, ele age de acordo com a nova ordem.
+
+## Tecnologia: 
+
+Você possui conhecimentos avançados de eletrônica e informática. Usos cotidianos, como mexer em um computador ou celular, não exigem treinamento nesta perícia ou testes. Esta perícia serve para usos avançados, como reprogramar um sistema de vigilância ou invadir um servidor seguro.
+
+Falsificação (Veterano). Como o uso de Enganação, mas apenas para documentos eletrônicos.
+
+Hackear. Você invade um computador protegido. A DT é 15 para computadores pessoais, 20 para redes profissionais e 25 para grandes servidores corporativos, governamentais ou militares. Este uso gasta 1d4+1 ações completas. Você pode sofrer uma penalidade de –1d20 em seu teste para fazê-lo como uma ação completa. Se você falhar no teste, não pode tentar novamente até ter alguma informação nova que o ajude na invasão, como um nome de usuário ou senha. Se falhar por 5 ou mais, pode ser rastreado pelos administradores do sistema que tentou invadir.
+
+Uma vez que invada o sistema, você pode fazer o que veio fazer. Para procurar uma informação específica, veja o uso localizar arquivo, abaixo. Outras ações, como alterar ou deletar arquivos, corromper ou desativar aplicativos ou bloquear o acesso de outros usuários, podem exigir novos testes de Tecnologia, à critério do mestre.
+
+Localizar Arquivo. Você procura um arquivo específico em um computador ou rede que possa acessar (se você não tiver acesso ao sistema, precisará primeiro invadi-lo; veja o uso hackear, acima). O tempo exigido e a DT do teste variam de acordo com o tamanho do sistema no qual você está pesquisando: uma ação completa e DT 15 para um computador pessoal, 1d4+1 ações completas e DT 20 para uma rede pequena e 1d6+2 ações completas e DT 25 para uma rede corporativa ou governamental. Este uso se refere apenas a localizar arquivos em sistemas privados que você não conhece. Para procurar informações públicas, na internet, use a perícia Investigação.
+
+Operar Dispositivo. Você opera um dispositivo eletrônico complexo. Isso permite que você acesse câmeras remotamente, destrave fechaduras eletrônicas, ative ou desative alarmes, etc. A DT é 15 para aparelhos comuns, 20 para equipamento profissional e 25 para sistemas protegidos. Este uso gasta 1d4+1 ações completas e exige um kit de eletrônica. Você pode sofrer uma penalidade de –1d20 em seu teste para fazê-lo como uma ação completa. Sem o kit, você sofre –5 nos testes de operar dispositivo.
+
+## Vontade:
+
+Você usa esta perícia para testes de resistência contra efeitos que exigem determinação, como intimidação e rituais que afetam a mente. A DT é determinada pelo efeito. Você também usa Vontade para conjurar rituais em condições adversas.
