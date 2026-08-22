@@ -1,4 +1,4 @@
-A criação de personagem pode seguir esta ordem:
+## A criação de personagem pode seguir esta ordem:
 
 1. Defina o conceito geral do personagem.
 
@@ -38,7 +38,7 @@ A intenção dessa ordem é impedir que um jogador novato tenha que lidar com to
 
 REGRAS DE CLASSE E JINKI
 
-. Apenas Giver pode utilizar Jinki
+## Apenas Giver pode utilizar Jinki
 
 [DEFINIDA]
 
@@ -49,7 +49,7 @@ Essa regra independe da Origem, da Trilha, do equipamento ou de qualquer outra c
 
 ---
 
-. Auxiliar nunca utiliza Jinki
+## Auxiliar nunca utiliza Jinki
 
 [DEFINIDA]
 
@@ -60,7 +60,7 @@ Mesmo que o Auxiliar carregue, encontre ou possua um objeto que possa funcionar 
 
 ---
 
-. Objetos comuns podem se tornar Jinki
+## Objetos comuns podem se tornar Jinki
 
 [DEFINIDA]
 
@@ -70,8 +70,7 @@ Objetos comuns, ferramentas, acessórios, vestimentas, brinquedos e outros objet
 
 
 ---
-
-. Armas também podem se tornar Jinki
+## Armas também podem se tornar Jinki
 
 [DEFINIDA]
 

@@ -37,7 +37,7 @@ Como a Dualidade atual não reduz mais dano, ela deixa de depender dessa regra e
 
 REGRAS DE DANO DE ALMA
 
-33. Dano de Alma reduz PV
+ Dano de Alma reduz PV
 
 [DEFINIDA]
 
@@ -48,7 +48,7 @@ A diferença entre dano comum e dano de Alma está principalmente em sua forma d
 
 ---
 
-34. Dano de Alma não pode ser curado por Origem
+ Dano de Alma não pode ser curado por Origem
 
 [DEFINIDA]
 
@@ -57,7 +57,7 @@ PV perdidos através de dano de Alma não podem ser recuperados por habilidades 
 
 ---
 
-35. Dano de Alma não pode ser curado por Trilha
+ Dano de Alma não pode ser curado por Trilha
 
 [DEFINIDA]
 
@@ -66,7 +66,7 @@ PV perdidos através de dano de Alma não podem ser recuperados por habilidades 
 
 ---
 
-36. Recuperação de dano de Alma
+ Recuperação de dano de Alma
 
 [DEFINIDA]
 
@@ -84,7 +84,7 @@ outras formas de cura padrão determinadas pelo sistema
 
 ---
 
-37. Dano de Alma deve permanecer rastreável
+ Dano de Alma deve permanecer rastreável
 
 [SUGESTÃO]
 
