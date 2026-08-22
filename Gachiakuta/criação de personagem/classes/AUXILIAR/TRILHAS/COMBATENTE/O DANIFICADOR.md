@@ -9,4 +9,4 @@
 	Após acertar um critico, gaste **8 PE** para realizar um **segundo ataque** como ação bônus.(garante critico) Usos: 1 vez por combate.  
 
 - **99% de Alma – Frenesi da Carnificina:**  
-	Gaste **10 PE** para entrar em frenesi por **3** turnos: todos os ataques causam **dano duplicado, mas você perde** **8** PV por turno.
+	Gaste **10 PE** para entrar em frenesi por **3** turnos: todos os ataques causam **dano duplicado, mas você perde** **8** PV de alma por turno.

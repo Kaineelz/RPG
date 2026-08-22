@@ -20,4 +20,4 @@ Parte de sua alma foi arrancada ao nascer. Você carrega uma ferida incurável q
 
 - Aprimoramento por Alma:
   - Dualidade: ataque extra com -5 na rolagem de ataque
-  - Custo: 2 PE + 1 SAN por uso.
+  - Custo: 2 PE + 2 SAN por uso.
