@@ -48,7 +48,7 @@ Uma habilidade de 35% não pode ser utilizada por um personagem com 30% de Alma.
 
 21. Habilidades anteriores continuam disponíveis
 
-[SUGESTÃO DE FORMALIZAÇÃO]
+[DEFINIDA]
 
 Ao aumentar sua Alma, o personagem mantém acesso às habilidades já desbloqueadas anteriormente.
 
