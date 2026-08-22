@@ -71,7 +71,7 @@ Objetos comuns, ferramentas, acessórios, vestimentas, brinquedos e outros objet
 
 ---
 
-10. Armas também podem se tornar Jinki
+. Armas também podem se tornar Jinki
 
 [DEFINIDA]
 

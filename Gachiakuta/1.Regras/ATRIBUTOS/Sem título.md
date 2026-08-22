@@ -1,4 +1,4 @@
-1. Atributos existentes
+. Atributos existentes
 
 [DEFINIDA]
 
@@ -20,7 +20,7 @@ Esses atributos representam as capacidades básicas do personagem e são utiliza
 
 ---
 
-2. Valor inicial dos atributos
+. Valor inicial dos atributos
 
 [DEFINIDA]
 
@@ -39,7 +39,7 @@ VIG 1
 
 ---
 
-3. Distribuição inicial de atributos
+. Distribuição inicial de atributos
 
 [DEFINIDA]
 
@@ -50,7 +50,7 @@ Esses pontos são adicionados aos valores iniciais dos atributos.
 
 ---
 
-4. Redução de atributo para obter outro ponto
+. Redução de atributo para obter outro ponto
 
 [DEFINIDA]
 
