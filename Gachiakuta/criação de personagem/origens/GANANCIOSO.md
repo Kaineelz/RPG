@@ -12,7 +12,7 @@ Você é um especulador que enxerga a vida como um cassino. Sua riqueza compra i
 
 - Role 1d6 para apostar em até 3 efeitos (escolha antes de rolar):
   - **+4**: Ganhe +2 em DEF até seu próximo turno.
-  - **+5**: Seu próximo ataque causa +1d6 de dano.
+  - **+5**: Seu próximo ataque causa +1d6 de dano de alma.
   - **6**: Recupere 1d4 PE.
 - Falha (1-3): Você perde 1d6 de SAN ou 1d6  de PV.
 

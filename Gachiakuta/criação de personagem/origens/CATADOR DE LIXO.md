@@ -8,7 +8,9 @@ Você cresceu revirando restos da sociedade, aprendendo que nada se perde – tu
 
 ## **Tesouro de latão**
 
-- Ação Bônus, 1 vez por cena. Você vasculha lixo ou destroços próximos e encontra 1d4 itens úteis ou prepara uma armadilha improvisada (DT 14 para detectar, 2d6 de dano). Os itens duram até 3 turnos. Caso se machuque durante a busca, sofre 1d4 de dano de Alma.
+- Ação Bônus (1/cena): Revire lixo ou escombros para encontrar:
+  - Item Útil: 1d4 itens (escolha do mestre)
+  - Armadilha Improvisada: Coloque uma armadilha (CD 14 para detectar, 2d6 de dano de alma).
 
 Risco: Itens duram 3 turnos antes de quebrar. Se falhar em usá-los, você corta a mão (1d4 de dano).
 
