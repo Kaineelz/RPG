@@ -1,4 +1,4 @@
-. Jinki Pessoal
+## Jinki Pessoal
 
 [DEFINIDA]
 
@@ -11,7 +11,7 @@ O Canivete Modificado é um exemplo de Jinki Pessoal, pois o objeto transforma s
 
 ---
 
-. Jinki Ambiental
+## Jinki Ambiental
 
 [DEFINIDA]
 
@@ -23,8 +23,7 @@ Um Jinki Ambiental pode ser ofensivo, defensivo, utilitário ou de suporte.
 
 
 ---
-
-. Tipo de Jinki não define função de combate
+## Tipo de Jinki não define função de combate
 
 [DEFINIDA]
 
@@ -45,7 +44,7 @@ E:
 
 ---
 
-. Forma de aquisição do Jinki
+## Forma de aquisição do Jinki
 
 [DEFINIDA]
 
@@ -65,7 +64,7 @@ A descrição completa de Roubado ainda precisa ser definida.
 
 ---
 
-. Limites das habilidades de Jinki
+## Limites das habilidades de Jinki
 
 [DEFINIDA]
 
@@ -85,7 +84,7 @@ Isso evita que efeitos que concedem ações adicionais criem dúvidas sobre quai
 
 ---
 
-. Ignorar limite deve especificar qual limite é ignorado
+## Ignorar limite deve especificar qual limite é ignorado
 
 [DEFINIDA]
 
