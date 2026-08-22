@@ -4,7 +4,7 @@ REGRAS DE CRIAÇÃO DE PERSONAGEM
 
 ---
 
-11. Jinki Pessoal
+. Jinki Pessoal
 
 [DEFINIDA]
 
@@ -17,7 +17,7 @@ O Canivete Modificado é um exemplo de Jinki Pessoal, pois o objeto transforma s
 
 ---
 
-12. Jinki Ambiental
+. Jinki Ambiental
 
 [DEFINIDA]
 
@@ -30,9 +30,9 @@ Um Jinki Ambiental pode ser ofensivo, defensivo, utilitário ou de suporte.
 
 ---
 
-13. Tipo de Jinki não define função de combate
+. Tipo de Jinki não define função de combate
 
-[SUGESTÃO DE FORMALIZAÇÃO]
+[DEFINIDA]
 
 A classificação entre Jinki Pessoal e Ambiental indica como o poder se manifesta, e não qual função ele ocupa em combate.
 
@@ -51,7 +51,7 @@ E:
 
 ---
 
-14. Forma de aquisição do Jinki
+. Forma de aquisição do Jinki
 
 [DEFINIDA COMO CONCEITO]
 
@@ -71,9 +71,9 @@ A descrição completa de Roubado ainda precisa ser definida.
 
 ---
 
-15. Limites das habilidades de Jinki devem ser explícitos
+. Limites das habilidades de Jinki devem ser explícitos
 
-[SUGESTÃO]
+[DE]
 
 Toda habilidade de Jinki deve informar claramente seu limite de utilização.
 
