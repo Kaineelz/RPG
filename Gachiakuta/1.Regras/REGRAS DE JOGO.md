@@ -44,7 +44,7 @@ REGRAS DE CRÍTICO
 
 40. Margem de ameaça
 
-[SUGESTÃO DE FORMALIZAÇÃO]
+[DEFINIDA]
 
 Quando uma arma apresenta um valor como:
 
@@ -69,7 +69,7 @@ Exemplo:
 
 41. Multiplicador de crítico
 
-[SUGESTÃO DE FORMALIZAÇÃO]
+[DEFINIDA]
 
 Quando uma arma apresenta:
 
