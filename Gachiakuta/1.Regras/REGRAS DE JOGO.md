@@ -108,7 +108,7 @@ só pode ser utilizada uma vez naquele combate específico.
 
 ---
 
-49. Ataques adicionais não reiniciam habilidades
+ Ataques adicionais não reiniciam habilidades
 
 [DEFINIDA!]
 
@@ -121,7 +121,7 @@ Se Ataque Preciso possui limite de 1 uso por turno, realizar um ataque adicional
 
 ---
 
-50. Ação adicional não significa novo turno
+ Ação adicional não significa novo turno
 
 [DEFINIDA]
 
@@ -132,7 +132,7 @@ Todos os limites, efeitos e durações referentes ao turno atual continuam sendo
 
 ---
 
-51. Ataque adicional é um novo ataque
+ Ataque adicional é um novo ataque
 
 [DEFINIDA]
 
@@ -150,7 +150,7 @@ Porém, ele continua respeitando todos os limites de habilidades já utilizados 
 
 ---
 
-52. Ataque adicional não equivale automaticamente a Ação Padrão
+ Ataque adicional não equivale automaticamente a Ação Padrão
 
 [DEFINIDA]
 
@@ -172,76 +172,6 @@ Ela concede apenas aquilo que seu texto permite.
 
 
 ---
-
-54. Ataque Preciso
-
-[DEFINIDA]
-
-> Gaste 4 PE para adicionar 4d8 de dano a um ataque.
-
-Se o ataque for um crítico, o dano adicional passa a ser 8d8.
-
-Limite: 1 uso por turno.
-
-
-
-
----
-
-55. Golpe Retalhador
-
-[CONSIDERADO ALTERADO PARA TESTES]
-
-> Gaste 5 PE para causar dano adicional igual à sua Alma, até o máximo de 20 de dano adicional.
-
-Limite: 1 uso por turno.
-
-
-
-
----
-
-56. Fúria Calculada em 35% de Alma
-
-[INTERPRETAÇÃO ATUAL]
-
-A habilidade começa em 10% com:
-
-> 1 PE
-+3 dano
-
-
-
-E aumenta a cada 15% de Alma.
-
-Portanto:
-
-> 10% = 1 PE / +3
-25% = 2 PE / +5
-40% = 3 PE / +7
-
-
-
-Em 35% de Alma, Fúria Calculada é:
-
-> 2 PE → +5 em rolagens de dano por 2 turnos.
-
-
-
-
----
-
-57. Vazio Interior
-
-[DEFINIDA]
-
-> O personagem recebe +4 em testes de Vontade contra medo, pânico e confusão.
-
-Pode gastar 5 PE para transformar uma falha em sucesso crítico.
-
-Ao fazer isso, sofre 1d6 de dano de Alma.
-
-Limite: 1 uso por cena.
 
 
 
