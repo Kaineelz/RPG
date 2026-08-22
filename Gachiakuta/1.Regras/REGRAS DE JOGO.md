@@ -152,7 +152,7 @@ Porém, ele continua respeitando todos os limites de habilidades já utilizados 
 
 52. Ataque adicional não equivale automaticamente a Ação Padrão
 
-[SUGESTÃO]
+[DEFINIDA]
 
 Uma habilidade que concede:
 
@@ -167,17 +167,6 @@ Ela concede apenas aquilo que seu texto permite.
 
 ---
 
-REGRAS ESPECÍFICAS JÁ AJUSTADAS
-
-53. Dualidade
-
-[DEFINIDA PARA TESTES ATUAIS]
-
-> Gaste 2 PE + 2 SAN para realizar um ataque adicional.
-
-O ataque adicional recebe -5 na rolagem de ataque.
-
-O dano do ataque não sofre redução.
 
 
 
