@@ -2,16 +2,7 @@ REGRAS DE CRIAÇÃO DE PERSONAGEM
 [SUGESTÃO]
 
 
-
 ---
-
-16. Ignorar limite deve especificar qual limite é ignorado
-
-[SUGESTÃO]
-
-Quando uma habilidade permite utilizar novamente uma ação de Jinki ou ignorar uma limitação, o texto deve indicar exatamente qual tipo de limite pode ser ignorado.
-
-Uma habilidade não deve poder ignorar limites de cena, combate ou Alma apenas por dizer genericamente que permite “usar novamente”.
 
 
 ---
