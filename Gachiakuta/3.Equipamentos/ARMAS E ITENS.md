@@ -8,7 +8,7 @@ IV = extremamente raro, pesado, experimental ou paranormal excepcional.
 
 ---
 
-1. Armas de fogo
+## Armas de fogo
 
 Os valores originais ficam intactos. Adicionei apenas Categoria.
 
@@ -44,7 +44,7 @@ Escopeta Improvisada	3d6	x3	Curto	B	2	I	Após crítico, emperra em 1 no próximo
 
 ---
 
-2. Armas brancas e de impacto
+## Armas brancas e de impacto
 
 Arma	Dano	Crítico	Alcance	Tipo	Espaço	Cat.
 
@@ -95,7 +95,7 @@ Lâmina de Sucata	1d8	19	C	1	I	Em falha crítica, recebe -1 dano até reparada
 
 ---
 
-3. Munições
+## Munições
 
 Munição	Espaço	Cat.
 
@@ -112,7 +112,7 @@ Eu deixaria a quantidade de disparos por pacote para definir depois, porque isso
 
 ---
 
-4. Proteções
+## Proteções
 
 Aqui a mecânica começa a ser nova.
 
@@ -171,7 +171,7 @@ Em Mãos, sua lista trazia “punhais”. Como isso parece deslocado, eu não tr
 
 ---
 
-5. Escudos
+## Escudos
 
 Escudo	DEF	Espaço	Cat.	Penalidade/Efeito
 
@@ -188,7 +188,7 @@ Só um escudo pode conceder DEF ao mesmo tempo.
 
 ---
 
-6. Explosivos
+## Explosivos
 
 Aqui agora temos ficha de combate de verdade.
 
@@ -215,7 +215,7 @@ Nova: Granada Adesiva	2d6	Curto	3m	I	0,5	II	Alvo atingido recebe -3m deslocament
 
 ---
 
-7. Medicina
+## Medicina
 
 Item	Espaço	Cat.	Efeito
 
@@ -238,7 +238,7 @@ Novo: Bolsa de Sangue	1	II	Medicina DT12; recupera 1d6 PV em tratamento fora de 
 
 ---
 
-8. Equipamentos especiais
+## Equipamentos especiais
 
 Item	Espaço	Cat.	Efeito
 
@@ -255,7 +255,7 @@ Novo: Gancho de Escalada	1	I	+3 Atletismo para escalada quando ancorado
 
 ---
 
-9. Itens gerais
+## Itens gerais
 
 Item	Espaço	Cat.	Uso mecânico sugerido
 
