@@ -292,7 +292,7 @@ O ‡ continua preservado sem significado mecânico até você me dizer o que re
 
 ---
 
-10. Vestimentas e acessórios
+## Vestimentas e acessórios
 
 Como esses objetos são excelentes bases para Jinki, eu evitaria dar bônus gratuitos demais.
 
@@ -329,7 +329,7 @@ Jaqueta Reforçada	1	II	Resistência C +1
 
 ---
 
-11. Itens paranormais
+## Itens paranormais
 
 Aqui fui mais fundo mecanicamente.
 
@@ -355,7 +355,7 @@ Novo: Bússola de Cinzas	0,5	III	1 SAN	Aponta para a maior concentração de Alm
 
 ---
 
-12. Reparos e materiais
+## Reparos e materiais
 
 Esta categoria aproveita coisas que já aparecem no funcionamento do Canivete.
 
