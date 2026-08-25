@@ -1,241 +1,253 @@
-## Acrobacia: 
+# PERÍCIAS
 
-Você consegue fazer proezas acrobáticas.
+As perícias representam conhecimentos, treinamentos e capacidades específicas do personagem. Cada perícia é associada a um atributo, que serve como base para seus testes.
 
-Amortecer Queda (Veterano, DT 15). Quando cai, você pode gastar uma reação e fazer um teste de Acrobacia para reduzir o dano. Se passar, reduz o dano da queda em 1d6, mais 1d6 para cada 5 pontos pelos quais o resultado do teste exceder a DT. Se reduzir o dano a zero, você cai de pé.
+A DT é definida pela regra, habilidade ou pelo Mestre conforme a dificuldade da ação.
 
-Equilíbrio. Se estiver andando por superfícies precárias, você precisa fazer testes de Acrobacia para não cair. Cada ação de movimento exige um teste. Se passar, você avança metade do seu deslocamento. Se falhar, não avança. Se falhar por 5 ou mais, cai. A DT é 10 para piso escorregadio, 15 para uma superfície estreita (como o topo de um muro) e 20 para uma superfície muito estreita (como uma corda esticada). Você pode sofrer -1d20 no teste para avançar seu deslocamento total. Quando está se equilibrando você fica desprevenido e, se sofrer dano, deve fazer um novo teste de Acrobacia; se falhar, cai.
+# Acrobacia — Agilidade
 
-Escapar. Você pode escapar de amarras. A DT é igual ao resultado do teste de Agilidade de quem o amarrou +10, se você estiver preso por cordas, ou 30, se você estiver preso por algemas. Este uso gasta uma ação completa.
+Você usa Acrobacia para realizar movimentos que exigem equilíbrio, flexibilidade e controle corporal.
 
-Levantar-se Rapidamente (Treinado, DT 20). Se estiver caído, você pode fazer um teste de Acrobacia para ficar de pé. Você precisa ter uma ação de movimento disponível. Se passar no teste, se levanta como uma ação livre. Se falhar, gasta sua ação de movimento, mas continua caído.
+**Amortecer Queda (Veterano, DT 15).** Ao cair, você pode gastar uma reação e fazer um teste de Acrobacia. Em caso de sucesso, reduz o dano da queda em 1d6, mais 1d6 para cada 5 pontos pelos quais superar a DT. Se reduzir o dano a 0, cai de pé.
 
-Passar por Espaço Apertado (Treinado, DT 25). Você pode se espremer por lugares estreitos, por onde apenas sua cabeça normalmente passaria. Você gasta uma ação completa e avança metade do deslocamento.
+**Equilíbrio.** Para atravessar superfícies precárias, faça um teste de Acrobacia. DT 10 para piso escorregadio, 15 para superfície estreita e 20 para superfície muito estreita. Em sucesso, avança metade do deslocamento. Em falha por 5 ou mais, cai. Você pode sofrer -1d20 no teste para avançar seu deslocamento total.
 
-Passar por Inimigo. Você pode atravessar um espaço ocupado por um inimigo como parte de seu movimento. Faça um teste de Acrobacia oposto ao teste de Acrobacia, Iniciativa ou Luta do oponente (o que for melhor). Se você passar, atravessa o espaço; se falhar, não atravessa e sua ação de movimento termina. Um espaço ocupado por um inimigo conta como terreno difícil.
+**Escapar.** Permite escapar de amarras. A DT é igual ao teste de Agilidade de quem realizou a amarra +10. Algemas ou contenções especialmente resistentes podem possuir DT própria. Este uso exige uma ação completa.
 
-## Adestramento:
+**Levantar-se Rapidamente (Treinado, DT 20).** Se estiver caído e possuir uma ação de movimento disponível, faça um teste. Em sucesso, levanta-se como ação livre. Em falha, permanece caído e gasta a ação de movimento.
 
-Você sabe lidar com animais.
+**Passar por Espaço Apertado (Treinado, DT 25).** Com uma ação completa, você atravessa um espaço muito estreito avançando metade do deslocamento.
 
-Acalmar Animal (DT 25). Você acalma um animal nervoso ou agressivo. Isso permite a você controlar um touro furioso ou convencer um cão de guarda a não atacá-lo. Este uso gasta uma ação completa.
+**Passar por Inimigo.** Faça um teste de Acrobacia oposto a Acrobacia, Iniciativa ou Luta do oponente, o que for melhor para ele. Em sucesso, atravessa seu espaço. Em falha, seu movimento termina.
 
-Cavalgar. Você pode andar à cavalo. Montar exige uma ação de movimento, mas você pode montar como uma ação livre com um teste de Adestramento contra DT 20 (porém, se falhar por 5 ou mais, cai no chão).
+# Adestramento — Presença
 
-Andar em terreno plano não exige testes, mas passar por obstáculos ou andar em terreno acidentado, sim. A DT é 15 para obstáculos pequenos ou terreno ruim (estrada esburacada) e 20 para obstáculos grandes ou terreno muito ruim (floresta à noite). Se você falhar, cai da montaria e sofre 1d6 pontos de dano. Cavalgar é parte de seu movimento e não exige uma ação.
+Você sabe lidar, conduzir e se comunicar com animais.
 
-Se estiver à cavalo, você pode galopar. Gaste uma ação completa e faça um teste de Adestramento. Você avança um número de quadrados de 1,5m igual ao seu deslocamento (modificado pela montaria) mais o resultado do teste. Você só pode galopar em linha reta e não pode galopar em terreno difícil.
+**Acalmar Animal (DT 25).** Com uma ação completa, tente acalmar um animal nervoso ou agressivo.
 
-Manejar Animal (DT 15). Você faz um animal realizar uma tarefa para a qual foi treinado. Isso permite usar Adestramento como Pilotagem para veículos de tração animal, como carroças. Este uso gasta uma ação de movimento.
+**Cavalgar.** Montar normalmente exige uma ação de movimento. Com um teste DT 20, pode montar como ação livre. Obstáculos ou terreno ruim podem exigir testes entre DT 15 e 20.
 
-## Artes:
+**Manejar Animal (DT 15).** Com uma ação de movimento, faça um animal executar uma tarefa para a qual foi treinado. Também pode substituir Pilotagem ao conduzir veículos movidos por animais.
 
-Você sabe se expressar com diversas formas de arte, como música, dança, escrita, pintura, atuação e outras.
+# Artes — Presença
 
-Impressionar. Faça um teste de Artes oposto pelo teste de Vontade de quem você está tentando impressionar. Se você passar, recebe +2 em testes de perícia baseadas em Presença contra essa pessoa no mesmo dia. Se falhar, sofre –2 nesses testes, e não pode tentar de novo no mesmo dia. Se estiver tentando impressionar mais de uma pessoa, o mestre faz apenas um teste pela plateia toda, usando o melhor bônus. Este uso leva de alguns minutos (música ou dança) até algumas horas (apresentação de teatro).
+Você sabe se expressar através de música, dança, escrita, pintura, atuação ou outras formas artísticas.
 
-## Atletismo:
+**Impressionar.** Faça um teste de Artes oposto à Vontade do alvo. Em sucesso, recebe +2 em testes baseados em Presença contra essa pessoa pelo restante do dia. Em falha, sofre -2 nesses testes e não pode tentar impressioná-la novamente no mesmo dia.
 
-Você pode realizar façanhas atléticas.
+# Atletismo — Força
 
-Corrida. Gaste uma ação completa e faça um teste de Atletismo. Você avança um número de quadrados de 1,5m igual ao seu deslocamento mais o resultado do teste. Por exemplo, se você tem deslocamento 9m (6 quadrados) e tira 15 no teste, avança 21 quadrados. Você só pode correr em linha reta e não pode correr em terreno difícil. Você pode correr por um número de rodadas igual ao seu Vigor. Após isso, deve fazer um teste de Fortitude por rodada (DT 5 + 5 por teste anterior). Se falhar, fica fatigado.
+Você usa Atletismo para correr, escalar, nadar, saltar e realizar outras façanhas físicas.
 
-Escalar. Gaste uma ação de movimento e faça um teste de Atletismo. Se passar, você avança metade do seu deslocamento. Se falhar, não avança. Se falhar por 5 ou mais, você cai. A DT é 10 para superfícies com apoios para os pés e mãos (como um barranco com raízes), 15 para um portão ou árvore, 20 para um muro ou parede com reentrâncias e 25 para um muro ou parede liso (como um prédio). Você pode sofrer -1d20 no teste para avançar seu deslocamento total. Quando está escalando você fica desprevenido e, se sofrer dano, deve fazer um novo teste de Atletismo; se falhar, você cai. Se um personagem adjacente a você estiver escalando e cair, você pode tentar pegá-lo. Faça um teste de Atletismo contra a DT da superfície +5. Se passar, você segura o personagem. Se falhar por 5 ou mais, você também cai!
+**Corrida.** Gaste uma ação completa e faça um teste. Você avança seu deslocamento normal mais 1,5m para cada ponto obtido no teste, respeitando as limitações do terreno. Após correr por um número de rodadas igual ao seu Vigor, testes de Fortitude podem ser exigidos para evitar fadiga.
 
-Natação. Se estiver na água, você precisa gastar uma ação de movimento e fazer um teste de Atletismo por rodada para não afundar. A DT é 10 para água calma, 15 para agitada e 20 ou mais para tempestuosa. Se passar, você pode avançar metade de seu deslocamento. Se falhar, consegue boiar, mas não avançar. Se falhar por 5 ou mais, você afunda. Se quiser avançar mais, você pode gastar uma segunda ação de movimento na mesma rodada para outro teste de Atletismo. Se você estiver submerso (seja por ter falhado no teste de Atletismo, seja por ter mergulhado de propósito), deve prender a respiração. Você pode prender a respiração por um número de rodadas igual ao seu Vigor. Após isso, deve fazer um teste de Fortitude por rodada (DT 5 + 5 por teste anterior). Se falhar, se afoga (é reduzido a 0 pontos de vida) e poderá morrer. Você sofre penalidade de carga em testes de natação.
+**Escalar.** Com uma ação de movimento, faça um teste. DT 10 para superfícies com muitos apoios, 15 para superfícies simples, 20 para superfícies difíceis e 25 para superfícies quase lisas. Em sucesso, avança metade do deslocamento. Em falha por 5 ou mais, cai.
 
-Saltar. Você pode pular sobre buracos ou obstáculos ou alcançar algo elevado. Para um salto longo, a DT é 5 por quadrado de 1,5m (DT 10 para 3m, 15 para 4,5m, 20 para 6m e assim por diante). Para um salto em altura, a DT é 15 por quadrado de 1,5m (30 para 3m). Você deve ter pelo menos 6m para correr e pegar impulso (sem esse espaço, a DT aumenta em +5). Saltar é parte de seu movimento e não exige uma ação.
+**Natação.** DT 10 em água calma, 15 em água agitada e 20 ou mais em condições extremas. Em sucesso, avança metade do deslocamento. Em falha por 5 ou mais, afunda. Um personagem submerso pode prender a respiração por um número de rodadas igual ao Vigor antes de precisar realizar testes de Fortitude.
 
-## Atualidades:
+**Saltar.** Para salto em distância, use DT 5 por 1,5m. Para salto em altura, use DT 15 por 1,5m. Sem espaço suficiente para tomar impulso, a DT aumenta em +5.
 
-Você é um conhecedor de assuntos gerais, como política, esporte e entretenimento, e pode responder dúvidas relativas a esses assuntos. A DT é 15 para informações comuns, como o nome do autor de um livro, 20 para informações específicas, como a história do fundador de uma empresa, e 25 para informações quase desconhecidas, como uma lenda urbana já esquecida.
+# Atualidades — Intelecto
 
-## Ciências:
+Você conhece assuntos gerais, acontecimentos, cultura, política, entretenimento e informações de circulação pública.
 
-Você estudou diversos campos científicos, como matemática, física, química e biologia, e pode responder dúvidas relativas a esses assuntos. Questões simples, como a composição química de uma substância conhecida, não exigem teste. Questões complexas, como detalhes sobre o funcionamento de um procedimento científico específico, exigem um teste contra DT 20. Por fim, questões envolvendo campos experimentais, como avaliar a capacidade de proteção de uma liga metálica recém-criada, exigem um teste contra DT 30.
+Informações comuns normalmente possuem DT 15, informações específicas DT 20 e informações raras ou quase esquecidas DT 25.
 
-## Crime:
+# Ciências — Intelecto
 
-Você sabe exercer atividades ilícitas.
+Você estudou campos científicos como matemática, física, química e biologia.
 
-Arrombar. Você abre uma fechadura trancada. A DT é 20 para fechaduras comuns (porta de um apartamento), 25 para fechaduras reforçadas (porta de uma loja) e 30 para fechaduras avançadas (cofre de um banco). Este uso gasta uma ação completa.
+Questões simples e conhecimentos básicos podem não exigir teste. Questões complexas normalmente possuem DT 20. Assuntos experimentais, extremamente especializados ou pouco documentados podem chegar a DT 30.
 
-Furto (DT 20). Você pega um objeto de outra pessoa (ou planta um objeto nas posses dela). Gaste uma ação padrão e faça um teste de Crime. Se passar, você pega (ou coloca) o que queria. A vítima tem direito a um teste de Percepção (DT igual ao resultado de seu teste de Crime). Se passar, ela percebe sua tentativa, tenha você conseguido ou não
+# Crime — Agilidade
 
-Ocultar. Você esconde um objeto em você mesmo. Gaste uma ação padrão e faça um teste de Crime oposto pelo teste de Percepção de qualquer um que possa vê-lo. Se uma pessoa revistar você, recebe +10 no teste de Percepção.
+Você sabe realizar atividades ilícitas, furtivas ou clandestinas.
 
-Sabotar (Veterano). Você desabilita um dispositivo. Uma ação simples, como desativar um alarme, tem DT 20. Uma ação complexa, como sabotar uma pistola para que exploda quando disparada, tem DT 30. Se você falhar por 5 ou mais, algo sai errado (o alarme dispara, você acha que a arma está sabotada, mas na verdade ainda funciona...). Este uso gasta 1d4+1 ações completas. Você pode sofrer uma penalidade de -1d20 em seu teste para fazê-lo como uma ação completa.
+**Arrombar.** DT 20 para fechaduras comuns, 25 para reforçadas e 30 para sistemas avançados. Exige uma ação completa.
 
-Os usos arrombar e sabotar exigem um kit de ladrão. Sem ele, você sofre –5 no teste.
+**Furto (DT 20).** Com uma ação padrão, tente pegar ou plantar um objeto sem ser percebido. A vítima pode realizar Percepção contra o resultado do seu teste de Crime.
 
-## Diplomacia:
+**Ocultar.** Com uma ação padrão, esconda um objeto consigo. Seu teste é oposto à Percepção de quem estiver observando. Uma revista cuidadosa concede +10 em Percepção.
 
-Você convence pessoas com lábia e argumentação.
+**Sabotar (Veterano).** Desabilite ou altere um mecanismo. Ações simples normalmente possuem DT 20 e ações complexas DT 30. O processo normalmente exige 1d4+1 ações completas. Você pode sofrer -1d20 para tentar concluir a sabotagem em uma única ação completa.
 
-Acalmar (treinado, DT 20). Você estabiliza um personagem adjacente que esteja enlouquecendo, fazendo com que ele fique com Sanidade 1. A DT aumenta em +5 para cada vez que ele tiver sido acalmado na cena. Este uso gasta uma ação padrão.
+Arrombar e Sabotar normalmente exigem ferramentas adequadas. Sem elas, você sofre -5 no teste.
 
-Mudar Atitude. Você muda a categoria de atitude de um NPC em relação a você ou a outra pessoa (veja a página ao lado para a explicação das categorias de atitude). Faça um teste de Diplomacia oposto pelo teste de Vontade do alvo. Se você passar, muda a atitude dele em uma categoria para cima ou para baixo, à sua escolha. Se passar por 10 ou mais, muda a atitude em até duas categorias. Se falhar por 5 ou mais, a atitude do alvo muda uma categoria na direção oposta. Este uso gasta um minuto. Você pode sofrer –2d20 no teste para fazê-lo como uma ação completa (para evitar uma briga, por exemplo). Você só pode mudar a atitude de uma mesma pessoa uma vez por dia.
+# Diplomacia — Presença
 
-Persuasão (DT 20). Você convence uma pessoa a fazer alguma coisa, como responder a uma pergunta ou prestar um favor. Se essa coisa for custosa (como emprestar um carro) você sofre –5 em seu teste. Se for perigosa (como cometer um crime) você sofre –10 ou falha automaticamente. De acordo com o mestre, seu teste pode ser oposto ao teste de Vontade da pessoa. Este uso gasta um minuto ou mais, de acordo com o mestre.
+Você convence, negocia e acalma pessoas através de argumentação e empatia.
 
-## Enganação:
+**Acalmar (Treinado, DT 20).** Com uma ação padrão, você pode estabilizar um personagem adjacente que esteja enlouquecendo, deixando-o com 1 SAN. A DT aumenta em +5 para cada vez que ele tiver sido acalmado na mesma cena.
 
-Você manipula pessoas com blefes e trapaças.
+**Mudar Atitude.** Faça um teste de Diplomacia oposto à Vontade do alvo. Em sucesso, pode melhorar ou piorar sua atitude em uma categoria. Se superar o resultado por 10 ou mais, pode alterar até duas categorias.
 
-Disfarce (Treinado). Você muda sua aparência ou a de outra pessoa. Faça um teste de Enganação oposto pelo teste de Percepção de quem prestar atenção no disfarçado. Se você passar, a pessoa acredita no disfarce; caso contrário, percebe que há algo errado. Se o disfarce é de uma pessoa específica, aqueles que conhecem essa pessoa recebem +10 no teste de Percepção. Um disfarce exige pelo menos dez minutos e um kit de disfarces. Sem ele, você sofre –5 no teste.
+**Persuasão.** Normalmente DT 20. Pedidos custosos podem impor -5 e pedidos perigosos -10 ou falha automática, a critério do Mestre. Quando apropriado, o teste pode ser oposto à Vontade do alvo.
 
-Falsificação (Veterano). Você falsifica um documento. Faça um teste de Enganação oposto pelo teste de Percepção de quem examinar o documento. Se você passar, a pessoa acredita que ele é válido; caso contrário, percebe que é falso. Se o documento é muito complexo, ou inclui uma assinatura ou carimbo específico, você sofre –2d20 no teste.
+# Enganação — Presença
 
-Fintar (Treinado). Você pode gastar uma ação padrão e fazer um teste de Enganação oposto a um teste de Reflexos de um ser em alcance curto. Se você passar, ele fica desprevenido contra seu próximo ataque, se realizado até o fim de seu próximo turno.
+Você manipula pessoas através de mentiras, blefes, disfarces e trapaças.
 
-Insinuação (DT 20). Você fala algo para alguém sem que outras pessoas entendam do que você está falando. Se você passar, o receptor entende sua mensagem. Se falhar por 5 ou mais, entende algo diferente do que você queria. Outras pessoas podem fazer um teste de Intuição oposto ao seu teste de Enganação. Se passarem, entendem o que você está dizendo.
+**Disfarce (Treinado).** Faça um teste oposto à Percepção de quem analisar o disfarce. Disfarçar-se como uma pessoa específica concede +10 em Percepção para quem a conhece. Sem materiais adequados, você sofre -5.
 
-Intriga (DT 20). Você espalha uma fofoca. Por exemplo, pode dizer que o dono do bar está aguando a cerveja para enfurecer o povo contra ele. Intrigas muito improváveis (convencer o povo que o delegado é um ET que está abduzindo as pessoas) têm DT 30. Este uso exige pelo menos um dia, mas pode levar mais tempo, de acordo com o mestre. Uma pessoa pode investigar a fonte da fofoca e chegar até você. Isso exige um teste de Investigação por parte dela, com DT igual ao resultado do seu teste para a intriga.
+**Falsificação (Veterano).** Faça um teste oposto à Percepção de quem examinar o documento. Documentos muito complexos podem impor -2d20.
 
-Mentir. Você faz uma pessoa acreditar em algo que não é verdade. Seu teste é oposto pelo teste de Intuição da vítima. Mentiras muito implausíveis impõem uma penalidade de –2d20 em seu teste (“Por que estou com o crachá do chefe de segurança? Ora, porque ele deixou cair e estou indo devolver!”).
+**Fintar (Treinado).** Com uma ação padrão, faça Enganação contra Reflexos de um alvo em alcance curto. Em sucesso, ele fica desprevenido contra seu próximo ataque realizado até o fim do seu próximo turno.
 
-## Fortitude:
+**Insinuação (DT 20).** Transmita uma mensagem de forma indireta. Outras pessoas podem realizar Intuição contra seu resultado para compreender o verdadeiro significado.
 
-Você usa esta perícia para testes de resistência contra efeitos que exigem vitalidade, como doenças e venenos. A DT é determina pelo efeito. Você também usa Fortitude para manter seu fôlego quando está correndo ou sem respirar. A DT é 5 +5 por teste anterior (veja a perícia Atletismo para mais detalhes).
+**Intriga.** Espalhe uma informação ou rumor. Normalmente DT 20, ou DT 30 para histórias extremamente improváveis. Investigar a origem da intriga exige Investigação contra o resultado do seu teste.
 
-## Furtividade:
+**Mentir.** Seu teste é oposto à Intuição da vítima. Mentiras extremamente implausíveis podem impor -2d20.
 
-Você sabe ser discreto e sorrateiro.
+# Fortitude — Vigor
 
-Esconder-se. Faça um teste de Furtividade oposto pelos testes de Percepção de qualquer um que possa notá-lo. Todos que falharem não conseguem percebê-lo (você tem camuflagem total contra eles). Esconder-se é uma ação livre que você só pode fazer no final do seu turno e apenas se terminar seu turno em um lugar onde seja possível se esconder (atrás de uma porta, num quarto escuro, numa mata densa, no meio de uma multidão...). Se tiver se movido durante o turno, você sofre –1d20 no teste (você pode se mover à metade do deslocamento normal para não sofrer essa penalidade). Se tiver atacado ou feito outra ação muito chamativa, sofre –3d20.
+Você usa Fortitude para resistir a efeitos que exigem resistência física, como doenças, venenos, exaustão, sufocamento e condições que atacam o corpo.
 
-Seguir. Faça um teste de Furtividade oposto ao teste de Percepção da pessoa sendo seguida. Você sofre –5 se estiver em um lugar sem esconderijos ou sem movimento, como um descampado ou rua deserta. A vítima recebe +5 em seu teste de Percepção se estiver tomando precauções para não ser seguida (como olhar para trás de vez em quando). Se você passar, segue a pessoa até ela chegar ao seu destino. Se falhar, a pessoa o percebe na metade do caminho.
+A DT é determinada pelo efeito. Testes repetidos de esforço ou falta de ar podem aumentar progressivamente de dificuldade.
 
-## Iniciativa:
+# Furtividade — Agilidade
 
-Esta perícia determina sua velocidade de reação. Quando uma cena de ação começa, cada personagem envolvido faz um teste de Iniciativa. Eles então agem em ordem decrescente dos resultados.
+Você sabe se esconder, mover-se discretamente e seguir alguém sem ser percebido.
 
-## Intimidação:
+**Esconder-se.** Faça Furtividade contra a Percepção de quem possa notá-lo. Você precisa estar em uma situação na qual seja possível se esconder. Se tiver se movido normalmente no turno, sofre -1d20. Ações muito chamativas podem impor -3d20.
 
-Você pode assustar ou coagir outras pessoas. Todos os usos de Intimidação são efeitos de medo.
+**Seguir.** Faça Furtividade contra Percepção do alvo. Locais abertos ou sem movimento podem impor -5. Um alvo que esteja tomando precauções recebe +5 em Percepção.
 
-Assustar (treinado). Gaste uma ação padrão e faça um teste de Intimidação oposto pelo teste de Vontade de um ser em alcance curto. Se você passar, ele fica abalado pelo resto da cena (não cumulativo). Se você passar por 10 ou mais, ele fica apavorado por uma rodada e então abalado pelo resto da cena.
+# Iniciativa — Agilidade
 
-Coagir. Faça um teste de Intimidação oposto pelo teste de Vontade de uma pessoa adjacente. Se você passar, ela obedece uma ordem sua (como fazer uma pequena tarefa, deixar que você passe por um lugar que ele estava protegendo etc.). Se você mandar a pessoa fazer algo perigoso ou que vá contra a natureza dela, ela recebe +5 no teste ou passa automaticamente. Este uso gasta um minuto ou mais, de acordo com o mestre, e deixa a pessoa hostil contra você.
+Iniciativa representa sua velocidade de reação.
 
-## Intuição:
+No início de uma cena de ação ou combate, os participantes fazem testes de Iniciativa e agem em ordem decrescente dos resultados.
 
-Esta perícia mede sua empatia e “sexto sentido”.
+# Intimidação — Presença
 
-Perceber Mentira. Você descobre se alguém está mentindo (veja a perícia Enganação).
+Você assusta, pressiona ou coage outras pessoas. Efeitos de Intimidação são considerados efeitos de medo quando apropriado.
 
-Pressentimento (treinado, DT 20). Você analisa uma pessoa, para ter uma ideia de sua índole ou caráter, ou uma situação, para perceber qualquer fato estranho (por exemplo, se os habitantes de uma cidadezinha estão agindo de forma esquisita). Este uso apenas indica se há algo anormal; para descobrir a causa, veja a perícia Investigação.
+**Assustar (Treinado).** Com uma ação padrão, faça Intimidação contra Vontade de um alvo em alcance curto. Em sucesso, ele fica abalado pelo restante da cena. Se superar o resultado por 10 ou mais, fica apavorado por 1 rodada e depois abalado.
 
-## Investigação:
+**Coagir.** Faça Intimidação contra Vontade de uma pessoa adjacente. Em sucesso, ela obedece uma ordem razoável. Ordens perigosas ou contrárias aos interesses do alvo podem conceder +5 em Vontade ou falhar automaticamente.
 
-Você sabe como descobrir pistas e informações.
+# Intuição — Presença
 
-Interrogar. Você descobre informações perguntando ou indo para um lugar movimentado e mantendo os ouvidos atentos. Informações gerais (“Quem é o dono desse restaurante?”) não exigem teste. Informações restritas, que poucas pessoas conhecem (“Quem é o delegado encarregado desse caso?”), têm DT 20. Informações confidenciais, ou que podem colocar em risco quem falar sobre elas, têm DT 30. Este uso gasta desde uma hora até um dia, a critério do mestre.
+Intuição representa sua capacidade de compreender pessoas, perceber intenções e reconhecer quando algo está errado.
 
-Procurar. Você examina um local. A DT varia: 15 para um item discreto ou no meio de uma bagunça, mas não necessariamente escondido; 20 para um item escondido (cofre atrás de um quadro, documento no fundo falso de uma gaveta); 30 para um item muito bem escondido (passagem secreta ativada por um botão, documento escrito com tinta invisível). Este uso gasta desde uma ação completa (examinar uma escrivaninha) até um dia (pesquisar uma biblioteca).
+**Perceber Mentira.** Faça Intuição contra Enganação para perceber se alguém está mentindo.
 
-## Luta:
+**Pressentimento (Treinado, DT 20).** Analise uma pessoa ou situação para perceber comportamentos, intenções ou elementos anormais. O sucesso revela que há algo estranho, mas não necessariamente sua causa.
 
-Você usa Luta para fazer ataques corpo a corpo. A DT é a Defesa do alvo. Se você acertar, causa dano de acordo com a arma utilizada.
+# Investigação — Intelecto
 
-## Medicina:
+Você sabe procurar pistas, conectar informações e descobrir fatos escondidos.
+
+**Interrogar.** Informações gerais podem não exigir teste. Informações restritas normalmente possuem DT 20 e informações confidenciais DT 30. O processo pode levar de uma hora a um dia.
+
+**Procurar.** DT 15 para elementos discretos, DT 20 para algo escondido e DT 30 para pistas extremamente bem ocultadas. O tempo depende do tamanho da área investigada.
+
+# Luta — Força
+
+Você usa Luta para realizar ataques corpo a corpo.
+
+A DT do teste normalmente é a Defesa do alvo. Em sucesso, causa o dano da arma ou ataque utilizado.
+
+# Medicina — Intelecto
 
 Você sabe tratar ferimentos, doenças e venenos.
 
-Primeiros Socorros (DT 20). Um personagem adjacente que esteja morrendo e inconsciente perde essas condições e fica com 1 PV. A DT aumenta em +5 para cada vez que ele tiver sido estabilizado na cena. Este uso gasta uma ação padrão.
+**Primeiros Socorros (DT 20).** Com uma ação padrão, estabilize um personagem adjacente que esteja morrendo e inconsciente. Ele perde essas condições e fica com 1 PV. A DT aumenta em +5 para cada vez que ele tiver sido estabilizado na mesma cena.
 
-Cuidados Prolongados (Veterano, DT 20). Você trata até uma pessoa por ponto de Intelecto para que elas se recuperem mais rapidamente. Se passar, elas recuperam o dobro dos PV por descanso nesse dia. Este uso leva uma hora.
+**Cuidados Prolongados (Veterano, DT 20).** Após uma hora de tratamento, até uma pessoa por ponto de Intelecto pode recuperar o dobro dos PV normalmente recuperados por descanso naquele dia.
 
-Necropsia (Treinado, DT 20). Você examina um cadáver para determinar a causa e o momento aproximado da morte. Causas raras ou extraordinárias, como um veneno exótico ou uma maldição, possuem DT +10. Este uso leva dez minutos.
+**Necropsia (Treinado, DT 20).** Em cerca de dez minutos, determine a causa e o momento aproximado de uma morte. Causas raras ou extraordinárias podem aumentar a DT em +10.
 
-Tratamento (Treinado). Você ajuda a vítima de uma doença ou veneno com efeito contínuo. Gaste uma ação completa e faça um teste contra a DT da doença ou veneno. Se você passar, o paciente recebe +5 em seu próximo teste de Fortitude contra esse efeito.
+**Tratamento (Treinado).** Com uma ação completa, faça Medicina contra a DT de uma doença ou veneno. Em sucesso, o paciente recebe +5 em seu próximo teste de Fortitude contra esse efeito.
 
-Esta perícia exige um kit de medicina. Sem ele, você sofre –5 no teste. Você pode usar a perícia Medicina em si mesmo, mas sofre -1d20 no teste.
+Medicina normalmente exige um kit apropriado. Sem ele, você sofre -5. Ao usar Medicina em si mesmo, sofre -1d20.
 
-## Percepção:
+# Percepção — Presença
 
-Você nota coisas usando os sentidos.
+Você percebe detalhes através dos sentidos.
 
-Observar. Você vê coisas discretas ou escondidas. A DT varia de 15, para coisas difíceis de serem vistas (um livro específico em uma estante) a 30, para coisas quase invisíveis (uma gota de sangue em uma folha no meio de uma floresta à noite). Para pessoas ou coisas escondidas, a DT é o resultado do teste de Furtividade ou Crime feito para esconder a pessoa ou ocultar o item. Você também pode perceber disfarces e falsificações (veja a perícia Enganação) e ler lábios (DT 20).
+**Observar.** A DT varia normalmente de 15 para detalhes difíceis de notar até 30 para elementos quase imperceptíveis. Para seres escondidos ou objetos ocultos, use como DT o resultado de Furtividade ou Crime correspondente.
 
-Ouvir. Você escuta barulhos sutis. Uma conversa casual próxima tem DT 0 — ou seja, a menos que exista alguma penalidade, você passa automaticamente. Ouvir pessoas sussurrando tem DT 15. Ouvir do outro lado de uma porta aumenta a DT em +5. Você pode fazer testes de Percepção para ouvir mesmo que esteja dormindo, mas sofre –2d20 no teste; um sucesso faz você acordar. Perceber seres que não possam ser vistos tem DT 20, ou +10 no teste de Furtividade do ser, o que for maior. Mesmo que você passe no teste, ainda sofre penalidades normais por lutar sem ver o inimigo.
+**Ouvir.** Sons comuns próximos normalmente não exigem teste. Sussurros podem possuir DT 15 e obstáculos podem aumentar a DT. Perceber uma criatura que não pode ser vista normalmente exige DT 20 ou o resultado de Furtividade dela +10, o que for maior.
 
-## Pilotagem:
+# Pilotagem — Presença
 
-Você sabe operar veículos terrestres e aquáticos, como motos, carros e lanchas. Pilotar um veículo gasta uma ação de movimento por turno. Situações comuns (dirigir em uma estrada, velejar em clima tranquilo) não exigem teste. Situações ruins (dirigir em uma estrada de chão e sem iluminação, velejar em chuva ou ventania) exigem um teste por turno contra DT 15. Situações terríveis (dirigir em terreno acidentado, velejar durante uma tempestade) exigem um teste por turno contra DT 25. Se você possuir grau de treinamento veterano nesta perícia, pode pilotar veículos aéreos, como aviões e helicópteros.
+Você sabe operar veículos terrestres, aquáticos e, com treinamento suficiente, aéreos.
 
-## Poder:
+Situações comuns não exigem teste. Condições ruins normalmente exigem DT 15 por turno e situações extremas DT 25. Um personagem Veterano em Pilotagem pode operar veículos aéreos complexos, a critério do Mestre.
+
+# Poder — Intelecto
 
 Você domina seu Jinki e sabe extrair, controlar e sustentar seu potencial.
 
-**Domínio do Jinki.** Seu domínio sobre o próprio Jinki determina o quanto você consegue explorar suas capacidades. Testes de Poder podem ser exigidos para utilizar manifestações complexas, sustentar efeitos prolongados ou ultrapassar os limites naturais do seu Jinki. A DT do teste é determinada pela dificuldade da ação ou pela própria habilidade.
+**Domínio do Jinki.** Testes de Poder podem ser exigidos para utilizar manifestações complexas, sustentar efeitos ou controlar situações que pressionem os limites do Jinki. A DT é determinada pela habilidade ou pelo Mestre.
 
-**Sustentar Efeito.** Alguns efeitos do Jinki possuem duração **sustentada**. Enquanto o efeito estiver ativo, você deve realizar testes de Poder conforme determinado pela habilidade. Em caso de sucesso, mantém o efeito normalmente. Em caso de falha, perde o controle necessário e o efeito termina.
+**Sustentar Efeito.** Alguns efeitos de Jinki possuem duração sustentada. Quando a habilidade exigir, faça testes de Poder para mantê-los ativos. Em falha, o efeito termina.
 
-**Forçar o Jinki.** Você pode tentar extrair mais poder do seu Jinki do que normalmente seria possível. Isso permite ultrapassar limitações ou potencializar determinadas manifestações, mas pode aumentar a DT do teste de Poder ou gerar consequências definidas pela habilidade.
+**Forçar o Jinki.** Algumas habilidades podem permitir que você tente extrair mais poder do Jinki. Nesses casos, o próprio efeito deve informar a DT, o benefício e as consequências de forçá-lo.
 
-**Controle.** Quando uma situação ameaça fazer seu Jinki escapar do seu controle, você pode realizar um teste de Poder para manter o domínio sobre ele. A DT é determinada pelo Mestre de acordo com a intensidade da situação.
+**Controle.** Quando uma situação ameaça fazer seu Jinki escapar do controle, faça um teste de Poder contra uma DT determinada pela intensidade da situação.
 
-**Limites.** Seu resultado em testes de Poder também pode determinar o quanto você consegue manter uma manifestação ativa, controlar múltiplos efeitos ou utilizar uma habilidade além de sua capacidade normal. As regras específicas para cada Jinki são determinadas por suas próprias habilidades.
+**Importante:** Poder não permite ignorar por conta própria limites de turno, cena, Alma ou outros limites escritos em uma habilidade. Qualquer exceção precisa estar explicitamente descrita pela regra que a concede.
 
-## Pontaria:
+# Pontaria — Agilidade
 
-Você usa Pontaria para fazer ataques à distância. A DT é a Defesa do alvo. Se você acertar, causa dano de acordo com a arma utilizada.
+Você usa Pontaria para realizar ataques à distância.
 
-## Profissão:
+A DT do teste normalmente é a Defesa do alvo. Em sucesso, causa o dano da arma ou ataque utilizado.
 
-Você sabe exercer uma profissão específica, como advogado, engenheiro, jornalista ou publicitário. Converse com o mestre para definir os detalhes de sua profissão e que tipos de testes você pode fazer com ela. Por exemplo, um advogado pode fazer um teste de Profissão para argumentar com a polícia, enquanto um administrador pode usar esta perícia para investigar os documentos de uma corporação.
+# Reflexos — Agilidade
 
-Um personagem treinado nesta perícia possui seus próprios rendimentos ou, caso não trabalhe mais, uma reserva de capital. Isso permite que você comece cada missão com um item adicional, além daqueles fornecidos pela Ordem. O item é de categoria I se você for treinado, de categoria II se você for veterano e de categoria III se você for expert.
+Você usa Reflexos para resistir a efeitos que exigem reação rápida, como armadilhas, explosões, quedas de objetos e outros perigos repentinos.
 
-## Reflexo:
+A DT é determinada pelo efeito. Reflexos também pode ser usado para resistir a fintas e habilidades que dependam de velocidade de reação.
 
-Você usa esta perícia para testes de resistência contra efeitos que exigem reação rápida, como armadilhas e explosões. A DT é determina pelo efeito. Você também usa Reflexos para evitar fintas.
+# Religião — Intelecto
 
-## Religião:
+Você possui conhecimento sobre religiões, crenças, símbolos, mitos, ritos e tradições espirituais.
 
-Você possui conhecimento sobre teologia e as diversas religiões do mundo.
+**Acalmar (DT 20).** Quando a situação permitir, você pode usar Religião no lugar de Diplomacia para tentar acalmar um personagem que esteja enlouquecendo.
 
-Acalmar (DT 20). Você pode usar Religião como Diplomacia para acalmar um personagem que esteja enlouquecendo.
+**Informação.** Questões simples normalmente possuem DT 10, questões complexas DT 20 e conhecimentos raros, antigos ou obscuros DT 30.
 
-Informação. Você pode responder dúvidas relativas a mitos, profecias, relíquias sagradas etc. A DT é 10 para questões simples, 20 para questões complexas e 30 para mistérios e enigmas.
+**Rito (Veterano, DT 20).** Você sabe conduzir cerimônias e ritos religiosos apropriados à tradição conhecida. Esta capacidade, por si só, não produz efeitos sobrenaturais.
 
-Rito (Veterano, DT 20). Você realiza uma cerimônia religiosa (batizado, casamento, funeral...).
+# Sobrevivência — Intelecto
 
-## Sobrevivência:
+Você sabe sobreviver em ambientes hostis, encontrar recursos, orientar-se e rastrear criaturas.
 
-Você pode se guiar em regiões selvagens e evitar perigos da natureza.
+**Acampamento (Treinado).** DT 15 em ambientes favoráveis, 20 em ambientes difíceis e 25 em regiões extremas. Clima severo ou escassez podem impor -5. Em sucesso, encontra condições suficientes para que o grupo possa se alimentar e descansar.
 
-Acampamento (Treinado). Você pode conseguir abrigo e alimento nos ermos, caçando, pescando, colhendo frutos, etc. A DT depende do tipo de terreno: 15 para campo aberto, 20 para mata fechada e 25 para regiões extremas, como desertos, pântanos ou montanhas. Regiões especialmente áridas ou estéreis e clima ruim (neve, tempestade etc.) impõem uma penalidade de –5 (cumulativa). Se passar, você e seu grupo podem usar as ações alimentar-se e dormir mesmo estando ao relento.
+**Identificar Animal (Treinado, DT 20).** Com uma ação completa, identifique uma criatura natural e reconheça características relevantes conhecidas sobre ela.
 
-Identificar Animal (Treinado, DT 20). Com uma ação completa, você pode identificar um animal exótico. Veja a perícia Ocultismo.
+**Orientar-se.** Faça um teste por dia de viagem quando houver risco real de se perder. Em falha, o avanço pode ser reduzido. Em falha por 5 ou mais, o grupo pode perder o rumo completamente.
 
-Orientar-se. Um personagem viajando em regiões selvagens precisa fazer um teste de Sobrevivência por dia para avançar. A DT depende do tipo de terreno (veja acima). Se passar, você avança seu deslocamento normal. Se falhar, avança metade. Se falhar por 5 ou mais, se perde e não avança pelo dia inteiro. Num grupo, um personagem deve ser escolhido como guia. Personagens treinados em Sobrevivência podem fazer testes para ajudá-lo. Entretanto, se mais de um personagem quiser fazer o teste por si só, todos deverão rolar os dados em segredo. Os jogadores devem decidir qual guia seguir antes de verem o resultado!
+**Rastrear (Treinado).** DT 15 para rastros evidentes, 20 para rastros comuns e 25 para rastros difíceis. Visibilidade ou clima ruins podem impor -1d20. Rastros antigos tornam-se progressivamente mais difíceis de seguir.
 
-Rastrear (Treinado). Você pode identificar e seguir rastros. A DT varia: 15 para rastrear um grupo grande, ou um único ser em solo macio, como lama ou neve; 20 para um ser em solo comum (grama, terra); 25 para um ser em solo duro (estrada, piso de interiores). Visibilidade precária ou clima ruim (noite, chuva, neblina) impõem –1d20 no teste. Você precisa fazer um teste por dia de perseguição. Enquanto rastreia, seu deslocamento é reduzido à metade. Se falhar, pode tentar novamente gastando mais um dia. Porém, a cada dia desde a criação dos rastros, a DT aumenta em +1.
+# Tática — Intelecto
 
-## Tática:
+Você sabe analisar confrontos, posições e vantagens de terreno.
 
-Você recebeu educação militar.
+**Analisar Terreno (DT 20).** Com uma ação de movimento, observe o campo de batalha. Em sucesso, identifica uma vantagem relevante presente, como cobertura, rota segura, terreno elevado ou ponto vulnerável.
 
-Analisar Terreno (DT 20). Como uma ação de movimento, você pode observar o campo de batalha. Se passar, descobre uma vantagem, como cobertura, camuflagem ou terreno elevado, se houver.
+**Plano de Ação (Veterano, DT 20).** Com uma ação padrão, oriente um aliado em alcance médio. Em sucesso, ele recebe +5 em Iniciativa. Se isso elevar a Iniciativa de um aliado que ainda não agiu nesta rodada acima da sua, ele age imediatamente após seu turno. Nas rodadas seguintes, utiliza a nova posição na ordem.
 
-Plano de Ação (Veterano, DT 20). Como uma ação padrão, você orienta um aliado em alcance médio. Se passar, fornece +5 na Iniciativa dele. Se isso fizer com que um aliado que ainda não tenha agido nesta rodada fique com uma Iniciativa maior do que a sua, ele age imediatamente após seu turno. Nas próximas rodadas, ele age de acordo com a nova ordem.
+# Tecnologia — Intelecto
 
-## Tecnologia: 
+Você possui conhecimentos avançados de eletrônica, informática, máquinas e sistemas tecnológicos.
 
-Você possui conhecimentos avançados de eletrônica e informática. Usos cotidianos, como mexer em um computador ou celular, não exigem treinamento nesta perícia ou testes. Esta perícia serve para usos avançados, como reprogramar um sistema de vigilância ou invadir um servidor seguro.
+**Falsificação Digital (Veterano).** Funciona como Falsificação de Enganação, mas para documentos e registros eletrônicos.
 
-Falsificação (Veterano). Como o uso de Enganação, mas apenas para documentos eletrônicos.
+**Hackear.** DT 15 para sistemas pessoais, 20 para redes profissionais e 25 para servidores ou redes altamente protegidas. Normalmente exige 1d4+1 ações completas. Você pode sofrer -1d20 para tentar concluir a invasão em uma única ação completa. Uma falha pode impedir novas tentativas até que obtenha informação ou acesso novo.
 
-Hackear. Você invade um computador protegido. A DT é 15 para computadores pessoais, 20 para redes profissionais e 25 para grandes servidores corporativos, governamentais ou militares. Este uso gasta 1d4+1 ações completas. Você pode sofrer uma penalidade de –1d20 em seu teste para fazê-lo como uma ação completa. Se você falhar no teste, não pode tentar novamente até ter alguma informação nova que o ajude na invasão, como um nome de usuário ou senha. Se falhar por 5 ou mais, pode ser rastreado pelos administradores do sistema que tentou invadir.
+**Localizar Arquivo.** DT 15 em sistemas pequenos, 20 em redes menores e 25 em redes grandes ou complexas. Se o sistema for protegido, pode ser necessário Hackear antes.
 
-Uma vez que invada o sistema, você pode fazer o que veio fazer. Para procurar uma informação específica, veja o uso localizar arquivo, abaixo. Outras ações, como alterar ou deletar arquivos, corromper ou desativar aplicativos ou bloquear o acesso de outros usuários, podem exigir novos testes de Tecnologia, à critério do mestre.
+**Operar Dispositivo.** DT 15 para equipamentos comuns, 20 para equipamentos profissionais e 25 para sistemas protegidos ou especialmente complexos. Ferramentas adequadas podem ser necessárias. Sem elas, você pode sofrer -5.
 
-Localizar Arquivo. Você procura um arquivo específico em um computador ou rede que possa acessar (se você não tiver acesso ao sistema, precisará primeiro invadi-lo; veja o uso hackear, acima). O tempo exigido e a DT do teste variam de acordo com o tamanho do sistema no qual você está pesquisando: uma ação completa e DT 15 para um computador pessoal, 1d4+1 ações completas e DT 20 para uma rede pequena e 1d6+2 ações completas e DT 25 para uma rede corporativa ou governamental. Este uso se refere apenas a localizar arquivos em sistemas privados que você não conhece. Para procurar informações públicas, na internet, use a perícia Investigação.
+# Vontade — Presença
 
-Operar Dispositivo. Você opera um dispositivo eletrônico complexo. Isso permite que você acesse câmeras remotamente, destrave fechaduras eletrônicas, ative ou desative alarmes, etc. A DT é 15 para aparelhos comuns, 20 para equipamento profissional e 25 para sistemas protegidos. Este uso gasta 1d4+1 ações completas e exige um kit de eletrônica. Você pode sofrer uma penalidade de –1d20 em seu teste para fazê-lo como uma ação completa. Sem o kit, você sofre –5 nos testes de operar dispositivo.
+Você usa Vontade para resistir a efeitos que atacam sua determinação, consciência ou estabilidade mental, como medo, intimidação, pânico, confusão e certas manifestações de Alma ou Ânima.
 
-## Vontade:
-
-Você usa esta perícia para testes de resistência contra efeitos que exigem determinação, como intimidação e rituais que afetam a mente. A DT é determinada pelo efeito. Você também usa Vontade para conjurar rituais em condições adversas.
+A DT é determinada pelo efeito.o efeito.
