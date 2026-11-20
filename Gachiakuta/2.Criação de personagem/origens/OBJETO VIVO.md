@@ -33,3 +33,11 @@ as peculiaridades são:
 **Retomada:** **Uma vez por cena**, se estiver sob uma dessas condições, você pode gastar **2 PE** e repetir o teste de Vontade contra a DT original. Em caso de sucesso, a condição termina.
 
 **Ímpeto de Ânima:** Quando **Retomada** encerra uma condição, você recebe **+1d6 no próximo teste ou ataque** que realizar até o final do seu próximo turno. Se não usar o benefício nesse prazo, ele é perdido.
+
+## **Interferência Impossível**
+
+**Uma vez por combate**, quando uma criatura visível em alcance médio declarar uma ação, mas antes de ela ser resolvida, você pode interrompê-la. A ação falha e é consumida, incluindo os recursos gastos para realizá-la.
+
+Imediatamente depois, você realiza **um turno adicional**, com **uma Ação Padrão e uma Ação de Movimento**. Esse turno não reinicia os limites de uso de habilidades por turno ou por rodada.
+
+Após realizar essas ações — ou abrir mão delas — você sofre **4d6 de Dano de Alma** e fica **inconsciente até o fim da cena**.
