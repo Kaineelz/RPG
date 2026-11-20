@@ -92,3 +92,4 @@ Quando uma habilidade permite utilizar novamente uma ação de Jinki ou ignorar 
 
 Uma habilidade não deve poder ignorar limites de cena, combate ou Alma apenas por dizer genericamente que permite “usar novamente”.
 
+---
