@@ -1,9 +1,6 @@
-Você já foi um objeto: um Jinki cuja Ânima continuou existindo depois que se rompeu o vínculo com seu portador. Contra todas as possibilidades, essa Ânima cresceu até despertar como uma nova vida.
+Você já foi um Jinki. Quando seu vínculo com o portador se rompeu, sua Ânima continuou existindo até despertar como uma nova vida. Você não guarda lembranças dessa época e sua existência começou ao despertar.
 
-Você não se lembra do antigo portador nem do tempo em que foi um Jinki. Sua vida começou quando despertou. Seu corpo tem aparência humana e lembra a última pessoa ligada a você, mas carrega uma peculiaridade física que revela que sua estrutura não é inteiramente humana.
-
-Você não pode voltar à sua forma original de Jinki. Sua aparência também não muda nem envelhece: ela permanece como era quando você despertou.
-
+Seu corpo humano lembra a última pessoa ligada a você, mas conserva uma peculiaridade física do Jinki que foi. Você não pode voltar à forma original, mudar de aparência ou envelhecer.
 ## **Perícias**
 - Poder e Vontade.
 ## **Peculiaridade** (Não é uma passiva, é uma condição)
