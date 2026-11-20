@@ -4,7 +4,7 @@ Em vez de desenvolver uma identidade espiritual completamente estável, sua Alma
 
 Você não possui uma especialização natural. Sua maior característica é a capacidade de se adaptar, absorver e imitar fragmentos daquilo que presencia.
 
-### Perícias
+## Perícias
 
 **Intuição** e **Fortitude**.
 
