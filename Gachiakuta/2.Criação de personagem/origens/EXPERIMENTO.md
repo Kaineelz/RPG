@@ -4,11 +4,11 @@ Em vez de desenvolver uma identidade espiritual completamente estável, sua Alma
 
 Você não possui uma especialização natural. Sua maior característica é a capacidade de se adaptar, absorver e imitar fragmentos daquilo que presencia.
 
-## Perícias
+## **Perícias**
 
 **Intuição** e **Fortitude**.
 
-## Reflexo de Ânima
+## **Reflexo de Ânima**
 
 Sua Alma consegue reproduzir temporariamente a estrutura espiritual de outra pessoa.
 
@@ -24,7 +24,7 @@ Você ignora requisitos de **Origem ou Trilha**, mas não pode copiar uma habili
 
 Quando os 2 turnos terminarem, a habilidade copiada desaparece e **Reflexo de Ânima não pode ser utilizado novamente até o final da cena**.
 
-## Vestígio de Ânima
+## **Vestígio de Ânima**
 
 Mesmo depois que o Reflexo termina, pequenos fragmentos da Alma copiada permanecem presos à sua.
 
@@ -44,7 +44,7 @@ Você só pode possuir **1 Vestígio ativo por vez**. Um novo Vestígio substitu
 
 Os Vestígios também podem provocar pequenas alterações físicas ou espirituais relacionadas à Alma copiada, sem efeito mecânico adicional.
 
-## Leitura de Ânima
+## **Leitura de Ânima**
 
 Sua Alma alterada reconhece padrões espirituais com uma facilidade anormal.
 
@@ -58,4 +58,4 @@ Você descobre:
 - seus efeitos principais;
 - e o percentual de Alma necessário para utilizá-la.
 
-Além disso, até o final da cena, você recebe **+2 em testes para identificar, compreender ou investigar manifestações de Ânima relacionadas àquela habilidade ou ao indivíduo que a utilizou**.
+Além disso, até o final da cena, você recebe **+4 em qualquer teste que vá usar contra o inimigo que foi lido**.
