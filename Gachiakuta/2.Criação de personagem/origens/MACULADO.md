@@ -2,7 +2,7 @@ Parte de sua alma foi arrancada ao nascer. Você carrega uma ferida incurável q
 (-2 de san extra a cada 10% de Alma)
 
 ## **Pericias:**
-- intimidação e vontade
+- Fortitude e vontade
 
 ## **Perturbação Persistente** 
 - "Você age com desinteresse crônico em situações complexas. Deve sempre questionar objetivos ('Pra que isso?'), ignorar detalhes importantes e recusar planos elaborados. Em momentos críticos, priorize soluções brutais sobre táticas refinadas."
@@ -17,7 +17,3 @@ Parte de sua alma foi arrancada ao nascer. Você carrega uma ferida incurável q
 ## **Dualidade** 
 
 - **Dualidade:** Gaste **2 PE + 2 SAN** para realizar um ataque adicional.
-
-- Aprimoramento por Alma:
-  - Dualidade: ataque extra com -5 na rolagem de ataque
-  - Custo: 2 PE + 2 SAN por uso.
