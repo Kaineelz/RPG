@@ -2,7 +2,7 @@ Parte de sua alma foi arrancada ao nascer. Você carrega uma ferida incurável q
 (-2 de san extra a cada 10% de Alma)
 
 ## **Pericias:**
-- fortitude e intimidação
+- intimidação e vontade
 
 ## **Perturbação Persistente** 
 - "Você age com desinteresse crônico em situações complexas. Deve sempre questionar objetivos ('Pra que isso?'), ignorar detalhes importantes e recusar planos elaborados. Em momentos críticos, priorize soluções brutais sobre táticas refinadas."
